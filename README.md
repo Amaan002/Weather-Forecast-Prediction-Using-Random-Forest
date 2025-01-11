@@ -1,4 +1,4 @@
-# Temperature Forecast Prediction Model Using Random Forest
+# Weather Forecast Prediction Model Using Random Forest
 The goal of this project is to build a model that can predict the temperature for the next day. We use historical weather data (like temperature, humidity, wind speed) to train the model. After training, we save the model using pickle, so that it can be used anytime without needing to train it again.
 
 The Score of the Model is = **0.9046499795232701**
